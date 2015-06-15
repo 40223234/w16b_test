@@ -113,7 +113,7 @@ class Midterm(object):
         <body>
         <a href="spur">spur</a><br />
         <form method=POST action=spuraction>
-    a_學號: a_40223247 
+    a_學號: a_40223234 
 
         </body>
         </html>

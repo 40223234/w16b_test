@@ -2510,7 +2510,7 @@ def index(self):
     &lt;body&gt;
     &lt;a href="spur"&gt;spur&lt;/a&gt;&lt;br /&gt;
     &lt;form method=POST action=spuraction&gt;
-a_學號: a_40223247 
+a_學號: a_40223234 
 
     &lt;/body&gt;
     &lt;/html&gt;
